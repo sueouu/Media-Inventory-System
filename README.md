@@ -1,5 +1,5 @@
 # Media Inventory System
-The purpose of this project is to create an everyday inventory system/application that helps user manage his/her books, CDs, and DVD inventories, by employing the MVC architecture.  The four basic features of the system include adding new items into the system, searching for and editing existing items, as well as deleting existing items (CRUD Design). 
+The purpose of this project is to create an everyday inventory system/application that helps user manage his/her books, CDs, and DVD inventories, by applying the MVC architecture.  The four basic features of the system include adding new items into the system, searching for and editing existing items, as well as deleting existing items (CRUD Design). 
 
 There are three versions of this inventory Systems. 
 
